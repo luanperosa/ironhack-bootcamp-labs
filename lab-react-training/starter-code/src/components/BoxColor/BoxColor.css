@@ -1,0 +1,15 @@
+.boxcolor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5px;
+  height: 75px;
+  width: 100%;
+  margin-left: 5px;
+  color: white;
+  border: 1px solid black;
+}
+
+.boxcolor ul {
+  list-style: none;
+}

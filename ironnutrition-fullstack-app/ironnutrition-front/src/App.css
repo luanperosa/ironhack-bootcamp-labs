@@ -1,0 +1,14 @@
+.content-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.foods-container {
+  width: 500px;
+  padding: 20px;
+}
+
+.cart-container {
+  width: 300px;
+  padding: 20px
+}
